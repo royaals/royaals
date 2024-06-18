@@ -11,7 +11,6 @@
 - 🔭 I’m currently working on full-stack development projects.
 - 👯 I’m looking to collaborate on open-source full-stack projects.
 - 💬 Ask me about full-stack development.
-- 📫 How to reach me: [your email/contact information]
 - ⚡ I am exploring Distributed systems and Gen AI.
 
 
