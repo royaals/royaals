@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://github.com/royaals">
-    <p>Royal Salins</p>
+    <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <h2 style="color: red;">Royal Salins</h2>
+</div>
+
 </p>
 
 <p align="center">
