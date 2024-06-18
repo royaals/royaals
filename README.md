@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://github.com/royaals">
-    <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <h2 style="color: red;">Royal Salins</h2>
-</div>
 
-</p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
